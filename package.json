@@ -6,7 +6,7 @@
   "author": "Daniel H Cohen <hofcohen@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index"
   },
   "dependencies": {
     "axios": "^0.19.2",
