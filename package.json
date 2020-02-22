@@ -5,6 +5,9 @@
   "repository": "git@github.com:Mathsteacher7/BasicDataBase.git",
   "author": "Daniel H Cohen <hofcohen@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
